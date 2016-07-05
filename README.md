@@ -15,3 +15,11 @@ Following these steps for k-FP results:
 2. For closed world results, run ```python k-FP.py --RF_closedworld --type non-HS``` or ```python k-FP.py --RF_closedworld --type HS```.
 3. For open world results, first build distances that will be used for classification by running ```python k-FP.py --distances --type non-HS``` or ```python k-FP.py --distances --type HS```.
 4. For open worl classification, run  ```python k-FP.py --distance_stats --type non-HS --knn 6``` or ```python k-FP.py --distance_stats --type HS --knn 6```, where ```--knn``` is the number of neighbours used for final classification.
+
+
+#### Results
+
+##### Closed world
+
+Alexa dataset - Accuracy 93-95%
+HS dataset    - Accuracy ?
