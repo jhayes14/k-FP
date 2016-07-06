@@ -11,10 +11,10 @@ Please make sure that the datasets are available to k-FP before running. Extract
 
 Following these steps for k-FP results:
 
-1. Run ```python k-FP.py --dictionary --type non-HS``` (for Alexa dataset) or ```python k-FP.py --dictionary --type HS``` (for hidden services dataset) to extract and save features for each traffic instance.
-2. For closed world results, run ```python k-FP.py --RF_closedworld --type non-HS``` or ```python k-FP.py --RF_closedworld --type HS```.
-3. For open world results, first build distances that will be used for classification by running ```python k-FP.py --distances --type non-HS``` or ```python k-FP.py --distances --type HS```.
-4. For open worl classification, run  ```python k-FP.py --distance_stats --type non-HS --knn 6``` or ```python k-FP.py --distance_stats --type HS --knn 6```, where ```--knn``` is the number of neighbours used for final classification.
+1. Run ```python k-FP.py --dictionary --mon_type non-HS``` (for Alexa dataset) or ```python k-FP.py --dictionary --mon_type HS``` (for hidden services dataset) to extract and save features for each traffic instance.
+2. For closed world results, run ```python k-FP.py --RF_closedworld --mon_type non-HS``` or ```python k-FP.py --RF_closedworld --mon_type HS```.
+3. For open world results, first build distances that will be used for classification by running ```python k-FP.py --distances --mon_type non-HS``` or ```python k-FP.py --distances --mon_type HS```.
+4. For open worl classification, run  ```python k-FP.py --distance_stats --mon_type non-HS --knn 6``` or ```python k-FP.py --distance_stats --mon_type HS --knn 6```, where ```--knn``` is the number of neighbours used for final classification.
 
 
 #### Results
