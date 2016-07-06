@@ -7,7 +7,7 @@ The attack works on trace files containing direction of packets and timing of pa
 
 To run first make sure all necessary libraries are installed (via ```requirements.txt```)
 
-Please make sure that the datasets are available to k-FP before running. Extract [Alexa](http://www.homepages.ucl.ac.uk/~ucabaye/alexa.tar.gz), [unmonitored](http://www.homepages.ucl.ac.uk/~ucabaye/unmonitored.tar.gz) and [Hidden Services](http://www.homepages.ucl.ac.uk/~ucabaye/hs.tar.gz) datasets in to a directory ```../data/```.
+Please make sure that the datasets are available to k-FP before running. Extract [alexa](http://www.homepages.ucl.ac.uk/~ucabaye/alexa.tar.gz), [unmonitored](http://www.homepages.ucl.ac.uk/~ucabaye/unmonitored.tar.gz) and [hidden services](http://www.homepages.ucl.ac.uk/~ucabaye/hs.tar.gz) datasets in to a directory ```../data/```.
 
 Following these steps for k-FP results:
 
