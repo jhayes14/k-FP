@@ -19,6 +19,8 @@ Following these steps for k-FP results:
 
 #### Results
 
+Training on 60% of monitored set and 5% of unmonitored set.
+
 ##### Closed world
 
 Alexa dataset - Accuracy 93-95%
