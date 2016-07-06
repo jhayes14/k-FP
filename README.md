@@ -22,10 +22,12 @@ Following these steps for k-FP results:
 ##### Closed world
 
 Alexa dataset - Accuracy 93-95%
-HS dataset    - Accuracy ?
+
+HS dataset    - Accuracy 83-86%
 
 ##### Open world
 
 
 Alexa dataset - TPR = 84-87% FP = .5-.9%
+
 HS dataset    - TPR = ?% FP = ?%
