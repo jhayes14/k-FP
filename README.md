@@ -35,3 +35,7 @@ Results for knn == 1.
 Alexa dataset - TPR = 92-96% FP = .9-1.6%
 
 HS dataset    - TPR = 85-87% FP = .04-.3%
+
+##### Disclaimer
+
+The original code and datasets were lost in a drive failure. I have attempted to re-create them as faithfully as I can but there may be some issues. If you find any please report them to.
