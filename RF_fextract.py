@@ -356,18 +356,4 @@ def TOTAL_FEATURES(trace_data, max_size=175):
     return tuple(features)
 
 if __name__ == '__main__':
-    tcp_dump = open("/Users/jamie/Projects/multitab_WF/data/ssd/morphing-experiments-data/test/securedrop_facebookcorewwwi/0_0_0.txt").readlines()
-    print TOTAL_FEATURES(tcp_dump)
-    #for j in range(18,19):
-    #    print "########"
-
-    #    for i in range(23,24):
-    #        tcp_dump = open("/Users/jamie/Projects/multitab_WF/data/juarez-dataset/singletab/" + str(j) + "_" + str(i) + ".txt").readlines()
-            #perc_inc_out(tcp_dump)
-    #        print TOTAL_FEATURES(tcp_dump)
-
-    #for j in range(1,10):
-    #    print j, "########"
-    #    tcp_dump = open("../data/batch/" + str(j)).readlines()
-        #perc_inc_out(tcp_dump)
-    #    TOTAL_FEATURES(tcp_dump)
+    pass
