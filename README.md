@@ -38,4 +38,4 @@ HS dataset    - TPR = 85-87% FP = .04-.3%
 
 ##### Disclaimer
 
-The original code and datasets were lost in a drive failure. I have attempted to re-create them as faithfully as I can but there may be some issues. If you find any please report them to.
+The original code and datasets were lost in a drive failure. I have attempted to re-create them as faithfully as possible but there may be some issues. If you find any please report them to me.
