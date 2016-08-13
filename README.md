@@ -32,9 +32,9 @@ HS dataset    - Accuracy 83-86%
 Results for knn == 1.
 
 
-Alexa dataset - TPR = 92-96% FP = .9-1.6%
+Alexa dataset - TPR = 92-96% FPR = .9-1.6%
 
-HS dataset    - TPR = 85-87% FP = .04-.3%
+HS dataset    - TPR = 85-87% FPR = .04-.3%
 
 ##### Disclaimer
 
