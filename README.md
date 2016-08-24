@@ -1,6 +1,6 @@
 # k-FP
 
-Benchmarks for the [k-FP WF attack](http://www.homepages.ucl.ac.uk/~ucabaye/k-fingerprinting.pdf) 
+Benchmarks for the [k-FP WF attack](http://www.homepages.ucl.ac.uk/~ucabaye/papers/k-fingerprinting.pdf) 
 
 
 The attack works on trace files containing direction of packets and timing of packets. In the feature extraction process there is the ability to fold in packet size features but this is currently not used.
