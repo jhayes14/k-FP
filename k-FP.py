@@ -218,7 +218,7 @@ def RF_closedworld(mon_type, path_to_dict = dic_of_feature_data):
     #print "Feature importance scores:"
     #print model.feature_importances_
 
-    scores = cross_val_score(model, tr_data, tr_label)
+    scores = cross_val_score(model, np.array(tr_data), np.array(tr_label))
     print "cross_val_score = ", scores.mean()
     #print "OOB score = ", model.oob_score_(tr_data, tr_label)
 
